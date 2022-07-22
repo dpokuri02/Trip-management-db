@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>1</id>
+    <date>18-05-2022</date>
+    <emp_id>1</emp_id>
+    <cust_id>1</cust_id>
+    <service_id>1</service_id>
+  </row>
+  <row>
+    <id>2</id>
+    <date>12-06-2022</date>
+    <emp_id>2</emp_id>
+    <cust_id>2</cust_id>
+    <service_id>2</service_id>
+  </row>
+  <row>
+    <id>3</id>
+    <date>10-06-2022</date>
+    <emp_id>1</emp_id>
+    <cust_id>3</cust_id>
+    <service_id>3</service_id>
+  </row>
+</root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>1</id>
+    <service_id>1</service_id>
+    <total_discount>20</total_discount>
+    <total>1000</total>
+    <net_amount>800</net_amount>
+    <payment_type>card</payment_type>
+  </row>
+  <row>
+    <id>2</id>
+    <service_id>2</service_id>
+    <total_discount>25</total_discount>
+    <total>2000</total>
+    <net_amount>1500</net_amount>
+    <payment_type>card</payment_type>
+  </row>
+  <row>
+    <id>3</id>
+    <service_id>3</service_id>
+    <total_discount>30</total_discount>
+    <total>3500</total>
+    <net_amount>2450</net_amount>
+    <payment_type>card</payment_type>
+  </row>
+</root>

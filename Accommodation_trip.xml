@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>1</id>
+    <name>Perry Lane Hotel</name>
+    <location>256 East Perry Street, Savannah, GA 31401</location>
+    <type>Grand Deluxe</type>
+    <price>654.68</price>
+  </row>
+  <row>
+    <id>2</id>
+    <name>Hotel ZaZa Austin</name>
+    <location>400 Lavaca St, Austin, TX 78701</location>
+    <type>Grand suit</type>
+    <price>413.09</price>
+  </row>
+  <row>
+    <id>3</id>
+    <name>Lyle Washington DC</name>
+    <location>1731 New Hampshire Ave NW, Washington DC, DC 20009-2501</location>
+    <type>Grand suit</type>
+    <price>375.53</price>
+  </row>
+</root>
