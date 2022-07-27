@@ -1,0 +1,5 @@
+id,service_id,total_discount,total,net_amount,payment_type
+1,1,20,1000,800,card
+2,2,25,2000,1500,card
+3,3,30,3500,2450,card
+
